@@ -13,3 +13,4 @@ A real-time Computer Vision project designed to detect faces, identify potential
 2. Install the required dependencies:
    ```bash
    pip install opencv-python numpy
+python face_detect.py
