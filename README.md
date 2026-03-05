@@ -14,3 +14,4 @@ A real-time Computer Vision project designed to detect faces, identify potential
    ```bash
    pip install opencv-python numpy
 python face_detect.py
+
